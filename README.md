@@ -24,6 +24,13 @@ The **Love Letters Generator** is a modern, visually appealing web application t
 2. Click the **Generate New Love Letter** button to produce a new love letter.
 3. Visit the **About** page to learn more about the historical context and significance of the original program.
 
+## 📸 Screenshots
+
+<p align="center">
+	<img src="./asset/generator_ex.png" alt="Generator example" width="800" height="600">
+	<img src="./asset/info_ex.png" alt="Information example" width="800" height="600">
+</p>
+
 ## 📖 History
 
 Christopher Strachey's "Loveletters" program, created in 1952, is recognized as the first work of electronic literature. Developed on the Manchester Mark I computer, it generated random love letters and was a groundbreaking intersection of technology and creativity. Strachey, a close collaborator of Alan Turing, was a pioneer in computer science. Their work is not only significant for its technical achievements but also for its subtextual critique of heteronormative expressions of love.
